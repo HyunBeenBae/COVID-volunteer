@@ -1,0 +1,23 @@
+#main_img {
+    width: 100%;
+}
+#button_img {
+    width: 100%;
+}
+.product-card {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 95%;
+  }
+
+  .card-content{
+    display: flex;
+   justify-content: center;
+  }
+  .card-action{
+    text-align: right;
+  }
+  .input-quantity {
+    width: 150px;
+  }
+  
